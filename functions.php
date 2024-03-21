@@ -16,7 +16,7 @@ function EndScript(string $massage) : void
 {
     exit("<div style='margin-left: 20px; margin-top: 20px;'>
             <p>$massage</p>
-            <a href='/index.php' style = 'margin-bottom: 15px; padding: 10px 20px; display: inline-block;
+            <a href='index.php' style = 'margin-bottom: 15px; padding: 10px 20px; display: inline-block;
             background: rgb(200, 200, 200); text-decoration: none;'>OK</a>
         </div>");
 }
