@@ -43,7 +43,7 @@ require_once('parsing.php');
                 echo '</table>';
             }
             ?>
-        </div> 
+        </div>
     </div>
 </body>
 </html>
