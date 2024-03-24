@@ -29,7 +29,7 @@ require_once('parsing.php');
             <input class="input" type="submit" name="booking" value="Получить кол-во тэгов">
         </form>
         <div>
-            <div class=" listTitle">Исторя поиска</div>
+            <div class="listTitle">Исторя поиска</div>
             <?php
             if ($data = Read($dataPath)) {
                 echo '<table>';
